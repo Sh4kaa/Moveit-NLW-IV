@@ -29,4 +29,4 @@ $ yarn dev
 
 ### Tecnologias utilizadas
 
-<img src="https://github.com/Sh4kaa/Moveit-NLW-IV/blob/main/icons-readme/javascript.svg" width="50px" height="50px"/> <img src="https://github.com/Sh4kaa/Moveit-NLW-IV/blob/main/icons-readme/typescript.svg" width="50px" height="50px"/><img src="https://github.com/Sh4kaa/Moveit-NLW-IV/blob/main/icons-readme/html5.svg" width="50px" height="50px"/>  <img src="https://github.com/Sh4kaa/Moveit-NLW-IV/blob/main/icons-readme/react.svg" width="50px" height="50px"/>
+<img src="https://github.com/Sh4kaa/Moveit-NLW-IV/blob/main/icons-readme/javascript.svg" width="50px" height="50px"/> <img src="https://github.com/Sh4kaa/Moveit-NLW-IV/blob/main/icons-readme/typescript.svg" width="50px" height="50px"/><img src="https://github.com/Sh4kaa/Moveit-NLW-IV/blob/main/icons-readme/html5.svg" width="50px" height="50px"/>  <img src="https://github.com/Sh4kaa/Moveit-NLW-IV/blob/main/icons-readme/react.svg" width="50px" height="50px"/> <img src="https://github.com/Sh4kaa/Moveit-NLW-IV/blob/main/icons-readme/css-3.svg" width="50px" height="50px"/>
