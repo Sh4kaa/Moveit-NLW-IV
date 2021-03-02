@@ -11,8 +11,8 @@ As aulas foram ministradas pela **[Diego Fernandes](https://github.com/diego3g**
 
 ### Requisitos
 
--- nodeJS
--- yarn
+<img src="https://github.com/Sh4kaa/Moveit-NLW-IV/blob/main/icons-readme/nodejs.svg" width="50px" height="50px" title="nodejs"/> <img src="https://github.com/Sh4kaa/Moveit-NLW-IV/blob/main/icons-readme/yarn.png" width="90px" height="50px" title="yarn"/> 
+
 
 ### Instalação do projeto
 
