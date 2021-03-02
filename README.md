@@ -29,30 +29,4 @@ $ yarn dev
 
 ### Tecnologias utilizadas
 
-
-
-
-
-
-### License
-
-<a href="https://opensource.org/licenses/MIT">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-05C11B?style=flat-square">
-</a>
-
-<br>
-This project is under the MIT license. See the [LICENSE](/LICENSE) file for more details.
-
----
-
-<br>
-
-<div align="center">
-    <img src=".github/nlw4.jpg" alt="Next Level Week #4">
-</div>
-
-<br>
-
-###  Info:
-- Author - Dario de Souza:
-- Date - March/2021:
+<img src="https://github.com/Sh4kaa/Moveit-NLW-IV/blob/main/icons-readme/javascript.svg" width="50px" height="50px"/> <img src="https://github.com/Sh4kaa/Moveit-NLW-IV/blob/main/icons-readme/typescript.svg" width="50px" height="50px"/><img src="https://github.com/Sh4kaa/Moveit-NLW-IV/blob/main/icons-readme/html5.svg" width="50px" height="50px"/>  <img src="https://github.com/Sh4kaa/Moveit-NLW-IV/blob/main/icons-readme/react.svg" width="50px" height="50px"/>
