@@ -23,3 +23,12 @@
     flex-direction: column;
   }
 }
+
+@media (max-height: 823px) {
+  .container {
+    padding: 30px;
+  }
+  .container section > div > div {
+    margin-bottom: 0.05rem;
+  }
+}
