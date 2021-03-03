@@ -15,3 +15,11 @@
   gap: 6.25rem;
   align-content: center;
 }
+
+@media (max-width: 820px) {
+  .container section {
+    gap: 2rem;
+    display: flex;
+    flex-direction: column;
+  }
+}
